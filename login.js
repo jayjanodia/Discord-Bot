@@ -11,7 +11,6 @@ require('dotenv').config();
 /* Step 3: Create a .env file in your project's root directory
 Step 4: DISCORD_TOKEN=your_token*/
 const token = process.env.DISCORD_TOKEN;
-//const token ='NzM2ODg0MTE4Mjg0OTI3MDE2.Xx1S0A.jyAFaz3p1fP4iDPXzG7WhMPb7Lw';
 //Log the bot in
 client.login(token);
 
