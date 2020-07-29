@@ -4,6 +4,7 @@ Created a Discord Bot with multiple functionality, in Node JS.
 # Requirements
 - dotenv (can be installed via cmd using npm install dotenv)
 - node (download it from this link: https://nodejs.org/en/)
+- Discord API (discord.js has been used for this bot, it can be downloaded via cmd using npm install discord.js)
 
 # Running the bot
 First ensure you have already created a discord bot. You can do this via the following link:https://discord.com/developers/applications.
