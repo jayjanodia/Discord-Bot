@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Discord-Bot
 Created a Discord Bot with multiple functionality, in Node JS.
 
@@ -16,7 +15,6 @@ Check if node is installed by opening a terminal (if you are on linux) or powers
 
 # Current Functionality
 Currently, this bot can log into your discord server and give responses to certain questions you put in the chat of your server
-=======
 # Discord-Bot
 Created a Discord Bot with multiple functionality, in Node JS.
 
@@ -34,4 +32,3 @@ Check if node is installed by opening a terminal (if you are on linux) or powers
 
 # Current Functionality
 Currently, this bot can log into your discord server and give responses to certain questions you put in the chat of your server. You can also use the bot to roll a number. This can be done via the ?roll command. You can give it arguments or leave it empty, for example: **?roll** will return a random value between 1-10. **?roll 50** will return a random value between 1-50. **?roll 25-102** will return a random value between 25-102.
->>>>>>> 59797ed... Added roll command
