@@ -13,8 +13,6 @@ Once the bot has been created, install the dotenv package using npm install dote
 
 Check if node is installed by opening a terminal (if you are on linux) or powershell / command prompt (if you are on windows), and enter node into the command-line. If node exists, then go into the repository where you have downloaded this git repo and enter node main.js.
 
-# Current Functionality
-Currently, this bot can log into your discord server and give responses to certain questions you put in the chat of your server
 # Discord-Bot
 Created a Discord Bot with multiple functionality, in Node JS.
 
